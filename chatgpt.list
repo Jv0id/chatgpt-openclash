@@ -1,7 +1,7 @@
 # > OpenAI
 # >> OpenAI Challenge & SSO
 host-suffix,auth0.com
-host,challenges.cloudflare.com
+host-suffix,challenges.cloudflare.com
 
 # >> OpenAI Related
 host-suffix,ai.com
